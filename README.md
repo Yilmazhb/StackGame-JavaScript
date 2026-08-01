@@ -8,4 +8,4 @@ HTML
 CSS
 
 ## Preview
-![Uploading stack-demoo.gif…]()
+<img width="1350" height="734" alt="stack-demoo" src="https://github.com/user-attachments/assets/899fc1db-4e07-4ae0-b563-fec4cb69ebdc" />
