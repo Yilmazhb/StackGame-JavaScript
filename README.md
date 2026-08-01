@@ -3,6 +3,9 @@ A simple stack game implemented in JavaScript, HTML and CSS,. This project provi
 
 
 ## Tech Stack Used 
-html5 css3 javascript
+JavaScript
+HTML
+CSS
 
 ## Preview
+![Uploading stack-demoo.gif…]()
